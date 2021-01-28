@@ -1,1 +1,43 @@
-
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+}
+ 
+html {
+    background-color: #fbfaf6;     /* Set cream coloured page background */
+    color: #404030;
+    font-family: serif;
+    font-size: 26px;
+    text-rendering: optimizeLegibility;
+}
+ 
+body {
+    max-width: 1276px;
+    margin: 0 auto;
+    background-color: #fff;        /* make content area background white */
+    border-left: 1px solid #ededed;
+    border-right: 1px solid #ededed;
+}
+ 
+h1, h2, h3, h4, h5, h6 {           /* set standard headings */
+    font-family: sans-serif;
+    font-weight:normal;
+    font-size: 3rem;
+    padding: 2rem 5rem 2rem 5rem;
+}
+h3 { font-size: 2.5rem; }
+ 
+.cover-fig {                       /* holder for cover image */
+    width: 50%;
+    margin: 2rem auto;
+    padding: 0;
+}
+.cover-fig img {width: 100%;}      /* format cover image */
+ 
+p {                                /* TEXT STYLE - paragraph */
+    margin-bottom: 1.2rem;         /* THIS SETS PARAGRAPH SPACING */
+    padding: 0 5rem;
+    line-height: 135%;
+}
