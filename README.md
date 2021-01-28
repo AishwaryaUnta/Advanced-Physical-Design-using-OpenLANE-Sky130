@@ -1,7 +1,9 @@
 # Advanced-Physical-Design-using-OpenLANE-Sky130
-Workshop
-Day 1
-Day 2
-Day 3
-Day 4
-Day 5
+<p align="center">
+    <img src="https://www.vlsisystemdesign.com/wp-content/uploads/2020/10/Advanced-Physical-Design-using-OpenLANE_Sky130_1-1024x576.png">
+</p>
+##Day 1
+##Day 2
+##Day 3
+##Day 4
+##Day 5
