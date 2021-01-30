@@ -42,8 +42,18 @@ OpenLANE Directory Structure in detail:
  
 <p align="center">
  Day 2
-</p> 
+</p>
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture1.JPG">
+</p>
 
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture1.JPG">
+</p>
+
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture1.JPG">
+</p>
 
 
 
