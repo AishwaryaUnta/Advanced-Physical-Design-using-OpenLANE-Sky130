@@ -51,32 +51,35 @@ OpenLANE Directory Structure in detail:
     <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture1.JPG">
 </p>
 <p align="center">
-    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture1.JPG">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture2.JPG">
 </p>
 <p align="center">
-    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture1.JPG">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture3.JPG">
 </p>
 <p align="center">
-    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture1.JPG">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture4.JPG">
 </p>
 <p align="center">
-    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture1.JPG">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture%205.JPG">
 </p>
 
 <p align="center">
     <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture6.JPG">
 </p>
 <p align="center">
-    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture1.JPG">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture7.JPG">
 </p>
 <p align="center">
-    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture1.JPG">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture8.JPG">
 </p>
 <p align="center">
-    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture1.JPG">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture9.JPG">
 </p>
 <p align="center">
-    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture1.JPG">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture10.JPG">
+</p>
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture11.JPG">
 </p>
 <p align="center">
     <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture12.JPG">
