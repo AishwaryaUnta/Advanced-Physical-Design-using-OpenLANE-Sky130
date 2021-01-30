@@ -19,8 +19,15 @@ EDA Tools ------| - ASIC
 PDK Data -------|
 </p>
 
+ <p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/openlane_flowchart1.png">
+</p>
 
 ASIC Flow Objective : RTL to GDSII
+
+ <p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/rtl2gds1.png">
+</p>
 
 <p align="left">
 Inputs :RTL files and PDK(Process Design Kit)
@@ -114,7 +121,10 @@ Here 16 masks were used at various stages throughout the process.</p>
 
 <p align="center">    
  Day 4
-</p>    
+</p> 
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day%204/Capture42.JPG">
+</p>
 <p align="center">    
  Day 5
 </p>  
