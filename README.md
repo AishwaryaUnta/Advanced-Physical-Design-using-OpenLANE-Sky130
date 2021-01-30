@@ -48,7 +48,7 @@ OpenLANE Directory Structure in detail:
 </p>
 
 <p align="center">
-    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture1.JPG">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture6.JPG">
 </p>
 
 <p align="center">
