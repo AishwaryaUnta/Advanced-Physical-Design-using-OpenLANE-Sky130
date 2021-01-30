@@ -82,7 +82,10 @@ Here 16 masks were used at various stages throughout the process.</p>
 </p>    
 <p align="center">    
  Day 5
-</p>    
+</p>  
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day2/Capture12.JPG">
+</p>
 
 # Acknowledgements
 <p align="left">
