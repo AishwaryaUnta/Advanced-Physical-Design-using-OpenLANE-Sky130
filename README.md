@@ -27,7 +27,7 @@ Synthesis-> Floorplanning -> Placement -> Clock Tree Synthesis -> Routing -> Sig
 OpenLANE Directory Structure in detail:
  OpenLANE is a flow which comprises of many opensource tools like Yosys,OpenSTA etc.
  <p align="center">
-    <img src=" https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/Capture1.JPG">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/Capture1.JPG">
 </p>
 
  
