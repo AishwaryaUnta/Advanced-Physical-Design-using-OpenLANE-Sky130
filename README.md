@@ -9,9 +9,12 @@ OpenLANE is an complete automated RTL to GDSII flow based on several blocks incl
 <p align="center">
     DAY 1
 </p>
+
 RTL IP's--------|
 EDA Tools ------| - ASIC
 PDK Data -------|
+
+
 ASIC Flow Objective : RTL to GDSII
 
 <p align="center">
@@ -23,7 +26,10 @@ Synthesis-> Floorplanning -> Placement -> Clock Tree Synthesis -> Routing -> Sig
 
 OpenLANE Directory Structure in detail:
  OpenLANE is a flow which comprises of many opensource tools like Yosys,OpenSTA etc.
- 
+ <p align="center">
+    <img src=" https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/Capture1.JPG">
+</p>
+
  
  
 <p align="center">
