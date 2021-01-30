@@ -44,6 +44,48 @@ OpenLANE Directory Structure in detail:
  <p align="center">
     <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/Capture1.JPG">
 </p>
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/Capture2.JPG">
+</p>
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/Capture3.JPG">
+</p>
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/Capture4.JPG">
+</p>
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/Capture5.JPG">
+</p>
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/Capture6.JPG">
+</p>
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/Capture7.JPG">
+</p>
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/Capture8.JPG">
+</p>
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/Capture9.JPG">
+</p>
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/Capture10.JPG">
+</p>
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/Capture11.JPG">
+</p>
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/Capture12.JPG">
+</p>
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/Capture13.JPG">
+</p>
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/Capture14.JPG">
+</p>
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day1/Capture15.JPG">
+</p>
 
 # Invoking OpenLANE
 <p align="center">
