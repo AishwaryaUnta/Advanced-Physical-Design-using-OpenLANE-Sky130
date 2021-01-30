@@ -9,19 +9,27 @@ OpenLANE is an complete automated RTL to GDSII flow based on several blocks incl
 <p align="center">
     DAY 1
 </p>
-
+<p align ="left">
 RTL IP's--------|
+</p>
+<p align ="left">
 EDA Tools ------| - ASIC
+</p>
+<p align ="left">
 PDK Data -------|
+</p>
 
 
 ASIC Flow Objective : RTL to GDSII
 
-<p align="center">
-                              PDK(Process Design Kit)                        GDSII
-RTL                             ||                                            ^
- |                                                                            |
+<p align="left">
+Inputs :RTL files and PDK(Process Design Kit)
+</p>
+<p align="left">
 Synthesis-> Floorplanning -> Placement -> Clock Tree Synthesis -> Routing -> Signoff
+</p>
+<p align="left">
+ Output : GDSII
 </p>
 
 OpenLANE Directory Structure in detail:
