@@ -79,3 +79,10 @@ Here 16 masks were used at various stages throughout the process.</p>
 <p align="center">    
  Day 5
 </p>    
+
+# Acknowledgements
+<p align="left">
+Kunal Ghosh.</p>
+Nickson Jose.</p>
+Praharsha Mahurkar.</p>
+Akurathi Radhika.</p>
