@@ -52,17 +52,16 @@ OpenLANE Directory Structure in detail:
 </p>  
 
 <p align="left">
-16 Mask CMOS Process Steps
+16 Mask CMOS Process:
 
-Substrate Selection : Selection of base layer on which other regions will be formed.</p>
-Create an active region for transistors : SiO2 and Si3N2 deposited. Pockets created using photoresist and lithography.</p>
-Nwell & Pwell formation : Pwell uses boron and nwell uses phosphorus. Drive in diffusion by placing it in a high temperature furnace.</p>
-Creating Gate terminal : For desired threshold value NA (doping Concentration) and Cox to be set.</p>
-Lightly Doped Drain (LDD) formation : LDD done to avoid hot electron effect and short channel effect.</p>
-Source and Drain formation : Forming the source and drain.</p>
-Contacts & local interconnect Creation : SiO2 removed using HF etch. Titanium deposited using sputtering.</p>
-Higher Level metal layer formation : Upper layers of metals deposited.</p>
-</p>
+Substrate Selection is the base layer on which other regions will be formed.</p>
+SiO2 and Si3N2 deposited. Photoresist is spinned. Pockets created using lithography process using masks.</p>
+Nwell & Pwell formation took place and Gate terminal was created</p>
+LDD was carried out to avoid hot electron effect and short channel effect.</p>
+Source and Drain formation took place.</p>
+Contacts & local interconnect were created.</p>
+Higher Level metal layer formation took place.</p>
+Here 16 masks were used at various stages throughout the process.</p>
 
 <p align="center">    
  Day 4
