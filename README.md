@@ -102,6 +102,15 @@ Source and Drain formation took place.</p>
 Contacts & local interconnect were created.</p>
 Higher Level metal layer formation took place.</p>
 Here 16 masks were used at various stages throughout the process.</p>
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day%203/Capture31.jpg">
+</p>
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day%203/Capture33.jpg">
+</p>
+<p align="center">
+    <img src="https://github.com/AishwaryaUnta/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/images/Day%203/Capture32.jpg">
+</p>
 
 <p align="center">    
  Day 4
